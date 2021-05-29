@@ -1,7 +1,7 @@
 # Aprendendo
 primeiros passos no git
 
-##COMANDOS BASICOS DO GIT
+## COMANDOS BASICOS DO GIT
 _________________________________
  - git config --global user.name "bla" // define nome de usuario
 
