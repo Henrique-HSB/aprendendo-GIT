@@ -17,7 +17,7 @@ _________________________________
 
  - git status// mostra se alguma edição foi feita no diretorio
 
- - git add -A// adiciona todas as auterações no diretorio
+ - git add -A// adiciona todas as alterações no diretorio
 
  - git commit-am "comentario"// comenta e atualiza o branch (é um diretorio paralelo)
 
